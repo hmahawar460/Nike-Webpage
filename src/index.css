@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+@import "flowbite/src/themes/default";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    #e8e3dc 0%,
+    #d8cfc4 50%,
+    #c8b8a6 100%
+  );
+}
